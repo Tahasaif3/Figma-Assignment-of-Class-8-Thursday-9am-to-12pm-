@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customColor: '#D9D9D9', //light grey color in hex format
       },
     },
   },
