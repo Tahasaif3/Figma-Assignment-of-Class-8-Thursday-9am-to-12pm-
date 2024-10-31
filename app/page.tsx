@@ -13,8 +13,8 @@ export default function Home() {
           {/* heading og website on left */}
           <h1 className="text-[44px] font-bold">Welcome To Our Website</h1>
           <p className="text-[32px] w-[571px]">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry&#39;s standard
           </p>
           <br />
           <button className="text-white bg-black text-[24px] font-bold px-4 w-[180px] h-[52px]">
