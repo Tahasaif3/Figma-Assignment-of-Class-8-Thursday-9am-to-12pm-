@@ -18,7 +18,7 @@ export default function Home() {
           </p>
           <br />
           <button className="text-white bg-black text-[24px] px-4 w-[180px] h-[52px]">
-          Contact Us
+          Contact US
           </button>
         </div>
         {/* Right side of child div container */}
