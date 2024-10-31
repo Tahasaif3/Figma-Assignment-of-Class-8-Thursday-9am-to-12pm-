@@ -17,7 +17,7 @@ export default function Home() {
           industry. Lorem Ipsum has been the industry&#39;s standard
           </p>
           <br />
-          <button className="text-white bg-black text-[24px] font-bold px-4 w-[180px] h-[52px]">
+          <button className="text-white bg-black text-[24px] px-4 w-[180px] h-[52px]">
           Contact Us
           </button>
         </div>
